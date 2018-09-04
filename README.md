@@ -30,3 +30,4 @@ PC: 4000
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/pixelrojo.png)
+https://github.com/DEZ80/1-p06-reto-utiliza-los-colores-kikon2000/blob/master/pixel%20amarillo.jpg
