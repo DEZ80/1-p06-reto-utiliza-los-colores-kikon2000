@@ -37,3 +37,4 @@ https://github.com/DEZ80/1-p06-reto-utiliza-los-colores-kikon2000/blob/master/pi
 
 https://github.com/DEZ80/1-p06-reto-utiliza-los-colores-kikon2000/blob/master/pixel%20fondo.jpg
 
+https://github.com/DEZ80/1-p06-reto-utiliza-los-colores-kikon2000/blob/master/pixel%20rojo.jpg
