@@ -34,3 +34,6 @@ Si quieres, puedes subir pantallazos y enlazarlos aquí.
 https://github.com/DEZ80/1-p06-reto-utiliza-los-colores-kikon2000/blob/master/pixel%20amarillo.jpg
 
 https://github.com/DEZ80/1-p06-reto-utiliza-los-colores-kikon2000/blob/master/pixel%20azul.jpg
+
+https://github.com/DEZ80/1-p06-reto-utiliza-los-colores-kikon2000/blob/master/pixel%20fondo.jpg
+
